@@ -1,0 +1,15 @@
+/Users/teejay/Desktop/C# projects/ATOM (Serialization and Desirialization)/ATOM (Serialization and Desirialization)/bin/Debug/net7.0/ATOM (Serialization and Desirialization)
+/Users/teejay/Desktop/C# projects/ATOM (Serialization and Desirialization)/ATOM (Serialization and Desirialization)/bin/Debug/net7.0/ATOM (Serialization and Desirialization).deps.json
+/Users/teejay/Desktop/C# projects/ATOM (Serialization and Desirialization)/ATOM (Serialization and Desirialization)/bin/Debug/net7.0/ATOM (Serialization and Desirialization).runtimeconfig.json
+/Users/teejay/Desktop/C# projects/ATOM (Serialization and Desirialization)/ATOM (Serialization and Desirialization)/bin/Debug/net7.0/ATOM (Serialization and Desirialization).dll
+/Users/teejay/Desktop/C# projects/ATOM (Serialization and Desirialization)/ATOM (Serialization and Desirialization)/bin/Debug/net7.0/ATOM (Serialization and Desirialization).pdb
+/Users/teejay/Desktop/C# projects/ATOM (Serialization and Desirialization)/ATOM (Serialization and Desirialization)/obj/Debug/net7.0/ATOM (Serialization and Desirialization).csproj.AssemblyReference.cache
+/Users/teejay/Desktop/C# projects/ATOM (Serialization and Desirialization)/ATOM (Serialization and Desirialization)/obj/Debug/net7.0/ATOM (Serialization and Desirialization).GeneratedMSBuildEditorConfig.editorconfig
+/Users/teejay/Desktop/C# projects/ATOM (Serialization and Desirialization)/ATOM (Serialization and Desirialization)/obj/Debug/net7.0/ATOM (Serialization and Desirialization).AssemblyInfoInputs.cache
+/Users/teejay/Desktop/C# projects/ATOM (Serialization and Desirialization)/ATOM (Serialization and Desirialization)/obj/Debug/net7.0/ATOM (Serialization and Desirialization).AssemblyInfo.cs
+/Users/teejay/Desktop/C# projects/ATOM (Serialization and Desirialization)/ATOM (Serialization and Desirialization)/obj/Debug/net7.0/ATOM (Serialization and Desirialization).csproj.CoreCompileInputs.cache
+/Users/teejay/Desktop/C# projects/ATOM (Serialization and Desirialization)/ATOM (Serialization and Desirialization)/obj/Debug/net7.0/ATOM (Serialization and Desirialization).dll
+/Users/teejay/Desktop/C# projects/ATOM (Serialization and Desirialization)/ATOM (Serialization and Desirialization)/obj/Debug/net7.0/refint/ATOM (Serialization and Desirialization).dll
+/Users/teejay/Desktop/C# projects/ATOM (Serialization and Desirialization)/ATOM (Serialization and Desirialization)/obj/Debug/net7.0/ATOM (Serialization and Desirialization).pdb
+/Users/teejay/Desktop/C# projects/ATOM (Serialization and Desirialization)/ATOM (Serialization and Desirialization)/obj/Debug/net7.0/ATOM (Serialization and Desirialization).genruntimeconfig.cache
+/Users/teejay/Desktop/C# projects/ATOM (Serialization and Desirialization)/ATOM (Serialization and Desirialization)/obj/Debug/net7.0/ref/ATOM (Serialization and Desirialization).dll

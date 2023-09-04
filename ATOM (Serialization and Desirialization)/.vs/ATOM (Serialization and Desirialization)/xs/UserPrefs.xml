@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{0CA5DF8C-CF47-418F-BAEF-D21C150395DE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ATOM (Serialization and Desirialization)/README.md">
+    <Files>
+      <File FileName="ATOM (Serialization and Desirialization)/Program.cs" />
+      <File FileName="ATOM (Serialization and Desirialization)/Classes.cs" />
+      <File FileName="ATOM (Serialization and Desirialization)/README.md" Line="56" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ATOM (Serialization and Desirialization)" expanded="True">
+            <Node name="ATOM (Serialization and Desirialization)" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ATOM_220_228Serialization_220and_220Desirialization_229 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
