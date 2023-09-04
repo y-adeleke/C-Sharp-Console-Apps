@@ -1,0 +1,15 @@
+/Users/teejay/Desktop/C# projects/Movie Theater Console App/Movie Theater Console App/bin/Debug/net7.0/Movie Theater Console App
+/Users/teejay/Desktop/C# projects/Movie Theater Console App/Movie Theater Console App/bin/Debug/net7.0/Movie Theater Console App.deps.json
+/Users/teejay/Desktop/C# projects/Movie Theater Console App/Movie Theater Console App/bin/Debug/net7.0/Movie Theater Console App.runtimeconfig.json
+/Users/teejay/Desktop/C# projects/Movie Theater Console App/Movie Theater Console App/bin/Debug/net7.0/Movie Theater Console App.dll
+/Users/teejay/Desktop/C# projects/Movie Theater Console App/Movie Theater Console App/bin/Debug/net7.0/Movie Theater Console App.pdb
+/Users/teejay/Desktop/C# projects/Movie Theater Console App/Movie Theater Console App/obj/Debug/net7.0/Movie Theater Console App.csproj.AssemblyReference.cache
+/Users/teejay/Desktop/C# projects/Movie Theater Console App/Movie Theater Console App/obj/Debug/net7.0/Movie Theater Console App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/teejay/Desktop/C# projects/Movie Theater Console App/Movie Theater Console App/obj/Debug/net7.0/Movie Theater Console App.AssemblyInfoInputs.cache
+/Users/teejay/Desktop/C# projects/Movie Theater Console App/Movie Theater Console App/obj/Debug/net7.0/Movie Theater Console App.AssemblyInfo.cs
+/Users/teejay/Desktop/C# projects/Movie Theater Console App/Movie Theater Console App/obj/Debug/net7.0/Movie Theater Console App.csproj.CoreCompileInputs.cache
+/Users/teejay/Desktop/C# projects/Movie Theater Console App/Movie Theater Console App/obj/Debug/net7.0/Movie Theater Console App.dll
+/Users/teejay/Desktop/C# projects/Movie Theater Console App/Movie Theater Console App/obj/Debug/net7.0/refint/Movie Theater Console App.dll
+/Users/teejay/Desktop/C# projects/Movie Theater Console App/Movie Theater Console App/obj/Debug/net7.0/Movie Theater Console App.pdb
+/Users/teejay/Desktop/C# projects/Movie Theater Console App/Movie Theater Console App/obj/Debug/net7.0/Movie Theater Console App.genruntimeconfig.cache
+/Users/teejay/Desktop/C# projects/Movie Theater Console App/Movie Theater Console App/obj/Debug/net7.0/ref/Movie Theater Console App.dll

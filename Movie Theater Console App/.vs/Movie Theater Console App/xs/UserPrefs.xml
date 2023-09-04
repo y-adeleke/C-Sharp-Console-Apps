@@ -1,4 +1,26 @@
 ﻿<Properties StartupConfiguration="{F9A88EFB-6437-493C-995E-A4293FD8C3C7}|Default">
-  <MonoDevelop.Ide.ItemProperties.Movie_220Theater_220Console_220App FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Movie Theater Console App/Program.cs">
+    <Files>
+      <File FileName="Movie Theater Console App/Program.cs" Line="129" Column="1" />
+      <File FileName="Movie Theater Console App/Enums.cs" Line="26" Column="1" />
+      <File FileName="Movie Theater Console App/Classes.cs" Line="131" Column="1" />
+      <File FileName="Movie Theater Console App/Structs.cs" Line="53" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Movie Theater Console App" expanded="True">
+            <Node name="Movie Theater Console App" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Movie_220Theater_220Console_220App PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
